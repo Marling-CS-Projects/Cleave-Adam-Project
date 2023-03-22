@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💀 Generic Project](README.md)
+* [💀 Adam Cleave's A-Level Project](README.md)
 
 ## 1 Analysis <a href="#analysis" id="analysis"></a>
 

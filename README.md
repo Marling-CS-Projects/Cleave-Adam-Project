@@ -2,12 +2,12 @@
 description: Computer Science H446-03
 ---
 
-# Some Generic Project
+# 💀 Generic Project
 
 |                  |                |
 | ---------------- | -------------- |
-| Candidate Name   | Arun BROADLEY  |
-| Candidate Number | 2072           |
+| Candidate Name   | Adam CLEAVE    |
+| Candidate Number | 9490           |
 | Centre Name      | Marling School |
 | Centre Number    | 57037          |
 

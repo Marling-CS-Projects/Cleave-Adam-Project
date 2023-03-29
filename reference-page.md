@@ -13,3 +13,11 @@ References:\
 <mark style="color:blue;"></mark>
 
 <mark style="color:blue;">Waterson, J. (2021, April 27). 62% of UK adults played video games during the pandemic, says Ofcom. The Guardian. https://www.theguardian.com/games/2021/apr/28/62-of-uk-adults-played-computer-games-during-the-pandemic-says-ofcom</mark>
+
+<mark style="color:blue;"></mark>
+
+<mark style="color:blue;">Pang, C. (2017, January 31).</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Understanding gamer psychology: Why do people play games?</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;">Sekg. https://www.sekg.net/gamer-psychology-people-play-games/</mark>
+
+<mark style="color:blue;"></mark>
+
+<mark style="color:blue;">Clement, J. (n.d.).</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Motivation for playing video games U.S. 2022</mark>_<mark style="color:blue;">. Statista. Retrieved March 29, 2023, from https://www.statista.com/statistics/239310/reasons-why-female-online-gamers-play-games-in-the-united-states/</mark>

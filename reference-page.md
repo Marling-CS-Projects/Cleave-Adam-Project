@@ -41,3 +41,15 @@ _Overwatch_. (n.d.). National Online Safety. Retrieved April 8, 2023, from [<mar
 
 
 redcap. (2017, August 25). Making tracer’s gun from overwatch in blender (part 1). _BlenderNation_. [<mark style="color:blue;">https://www.blendernation.com/2017/08/25/making-tracers-gun-overwatch-blender-part-1/#prettyPhoto</mark>](https://www.blendernation.com/2017/08/25/making-tracers-gun-overwatch-blender-part-1/#prettyPhoto)
+
+
+
+_Super Mario Bros._ (n.d.). Retrieved April 12, 2023, from [<mark style="color:blue;">https://fs-prod-cdn.nintendo-europe.com/media/images/10\_share\_images/games\_15/virtual\_console\_nintendo\_3ds\_7/SI\_3DSVC\_SuperMarioBros\_image1600w.jpg</mark>](https://fs-prod-cdn.nintendo-europe.com/media/images/10\_share\_images/games\_15/virtual\_console\_nintendo\_3ds\_7/SI\_3DSVC\_SuperMarioBros\_image1600w.jpg)
+
+
+
+_WASD Keys_. (n.d.). Retrieved April 12, 2023, from [<mark style="color:blue;">https://cdn.dribbble.com/users/539773/screenshots/3892783/media/511a746e11b78cb3af03e83436bb002c.png?compress=1\&resize=400x300</mark>](https://cdn.dribbble.com/users/539773/screenshots/3892783/media/511a746e11b78cb3af03e83436bb002c.png?compress=1\&resize=400x300)
+
+
+
+_Nintendo Entertainment System_. (n.d.). Retrieved April 12, 2023, from [<mark style="color:blue;">https://i.ebayimg.com/00/s/MTAwN1gxNTAw/z/llQAAOSw241YUKOA/$\_32.JPG?set\_id=89040003C1</mark>](https://i.ebayimg.com/00/s/MTAwN1gxNTAw/z/llQAAOSw241YUKOA/$\_32.JPG?set\_id=89040003C1)

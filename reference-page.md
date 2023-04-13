@@ -53,3 +53,15 @@ _WASD Keys_. (n.d.). Retrieved April 12, 2023, from [<mark style="color:blue;">h
 
 
 _Nintendo Entertainment System_. (n.d.). Retrieved April 12, 2023, from [<mark style="color:blue;">https://i.ebayimg.com/00/s/MTAwN1gxNTAw/z/llQAAOSw241YUKOA/$\_32.JPG?set\_id=89040003C1</mark>](https://i.ebayimg.com/00/s/MTAwN1gxNTAw/z/llQAAOSw241YUKOA/$\_32.JPG?set\_id=89040003C1)
+
+
+
+_Celeste Cover Image_. (n.d.). Retrieved April 13, 2023, from [<mark style="color:blue;">https://cdn.mobygames.com/covers/9047370-celeste-nintendo-switch-front-cover.jpg</mark>](https://cdn.mobygames.com/covers/9047370-celeste-nintendo-switch-front-cover.jpg)
+
+
+
+_Xbox Controller Image_. (n.d.). Retrieved April 13, 2023, from [<mark style="color:blue;">https://www.koeitecmoeurope.com/manual/mrdx/mr1/en/images/1000/cont\_steam.png</mark>](https://www.koeitecmoeurope.com/manual/mrdx/mr1/en/images/1000/cont\_steam.png)
+
+
+
+_Hello Celeste people : R/celestegame_. (n.d.). Reddit. Retrieved April 13, 2023, from [<mark style="color:blue;">https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/</mark>](https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/)

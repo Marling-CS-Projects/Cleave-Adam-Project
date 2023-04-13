@@ -65,3 +65,7 @@ _Xbox Controller Image_. (n.d.). Retrieved April 13, 2023, from [<mark style="co
 
 
 _Hello Celeste people : R/celestegame_. (n.d.). Reddit. Retrieved April 13, 2023, from [<mark style="color:blue;">https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/</mark>](https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/)
+
+
+
+_How long is Celeste?_ (n.d.). HowLongToBeat. Retrieved April 13, 2023, from [<mark style="color:blue;">https://howlongtobeat.com/game/42818</mark>](https://howlongtobeat.com/game/42818)

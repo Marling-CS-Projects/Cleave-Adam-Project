@@ -4,6 +4,8 @@ References:\
 
 
 
+Arcade Machine, n.d.
+
 Celeste Cover Image, n.d.
 
 Clement, J., n.d. Motivation for playing video games U.S. 2022 \[WWW Document]. Statista. URL [<mark style="color:blue;">https://www.statista.com/statistics/239310/reasons-why-female-online-gamers-play-games-in-the-united-states/</mark>](https://www.statista.com/statistics/239310/reasons-why-female-online-gamers-play-games-in-the-united-states/) (accessed 3.29.23a).
@@ -25,6 +27,10 @@ Overwatch \[WWW Document], n.d. . National Online Safety. URL [<mark style="colo
 Pang, C., 2017. Understanding gamer psychology: Why do people play games? \[WWW Document]. Sekg. URL [<mark style="color:blue;">https://www.sekg.net/gamer-psychology-people-play-games/</mark>](https://www.sekg.net/gamer-psychology-people-play-games/) (accessed 3.29.23).
 
 redcap, 2017. Making tracer’s gun from overwatch in blender (part 1). BlenderNation.
+
+Sega Mega-Play System, n.d.
+
+Sega Mega-Tech System, n.d.
 
 Super Mario Bros., n.d.
 

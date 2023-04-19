@@ -2,7 +2,7 @@
 description: Computer Science H446-03
 ---
 
-# 💀 Adam Cleave's A-Level Project
+# 🥶 Adam Cleave's A-Level Project
 
 |                  |                |
 | ---------------- | -------------- |

@@ -32,6 +32,8 @@ Sega Mega-Play System, n.d.
 
 Sega Mega-Tech System, n.d.
 
+Sonic the Hedgehog Classic, n.d.
+
 Super Mario Bros., n.d.
 
 Video game market size & share growth report, 2030 \[WWW Document], n.d. . Grandviewresearch.com. URL [<mark style="color:blue;">https://www.grandviewresearch.com/industry-analysis/video-game-market</mark>](https://www.grandviewresearch.com/industry-analysis/video-game-market) (accessed 3.28.23).

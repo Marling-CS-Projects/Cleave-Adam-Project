@@ -16,6 +16,8 @@ Consultancy-me.com, 2020. Covid-19 accelerates global video gaming market to $17
 
 Contributors to Wikimedia projects, 2023. Arrow keys \[WWW Document]. Wikipedia. URL [<mark style="color:blue;">https://en.wikipedia.org/wiki/Arrow\_keys</mark>](https://en.wikipedia.org/wiki/Arrow\_keys) (accessed 4.20.23).
 
+Goomba Picture, n.d.
+
 Hello Celeste people : R/celestegame \[WWW Document], n.d. . Reddit. URL [<mark style="color:blue;">https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/</mark>](https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/) (accessed 4.13.23).
 
 How long is Celeste? \[WWW Document], n.d. . HowLongToBeat. URL [<mark style="color:blue;">https://howlongtobeat.com/game/42818</mark>](https://howlongtobeat.com/game/42818) (accessed 4.13.23).

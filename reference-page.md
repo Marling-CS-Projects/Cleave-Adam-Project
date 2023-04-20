@@ -12,7 +12,9 @@ Clement, J., n.d. Motivation for playing video games U.S. 2022 \[WWW Document]. 
 
 Clement, J., n.d. Top video game genres worldwide by age 2022 \[WWW Document]. Statista. URL [<mark style="color:blue;">https://www.statista.com/statistics/1263585/top-video-game-genres-worldwide-by-age/</mark>](https://www.statista.com/statistics/1263585/top-video-game-genres-worldwide-by-age/) (accessed 4.8.23b).
 
-Consultancy-me.com, 2020. Covid-19 accelerates global video gaming market to $170 billion. Consultancy-me.com.
+Consultancy-me.com, 2020. Covid-19 accelerates global video gaming market to $170 billion \[WWW Document]. Consultancy-me.com. URL [<mark style="color:blue;">https://www.consultancy-me.com/news/3041/covid-19-accelerates-global-gaming-market-to-170-billion</mark>](https://www.consultancy-me.com/news/3041/covid-19-accelerates-global-gaming-market-to-170-billion) (accessed 3.28.23).
+
+Contributors to Wikimedia projects, 2023. Arrow keys \[WWW Document]. Wikipedia. URL [<mark style="color:blue;">https://en.wikipedia.org/wiki/Arrow\_keys</mark>](https://en.wikipedia.org/wiki/Arrow\_keys) (accessed 4.20.23).
 
 Hello Celeste people : R/celestegame \[WWW Document], n.d. . Reddit. URL [<mark style="color:blue;">https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/</mark>](https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/) (accessed 4.13.23).
 

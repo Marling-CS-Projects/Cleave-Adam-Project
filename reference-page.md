@@ -6,6 +6,8 @@ References:\
 
 Arcade Machine, n.d.
 
+Archer from Clash of Clans, n.d.
+
 Celeste Cover Image, n.d.
 
 Clement, J., n.d. Motivation for playing video games U.S. 2022 \[WWW Document]. Statista. URL [<mark style="color:blue;">https://www.statista.com/statistics/239310/reasons-why-female-online-gamers-play-games-in-the-united-states/</mark>](https://www.statista.com/statistics/239310/reasons-why-female-online-gamers-play-games-in-the-united-states/) (accessed 3.29.23a).
@@ -35,6 +37,8 @@ redcap, 2017. Making tracer’s gun from overwatch in blender (part 1). BlenderN
 Sega Mega-Play System, n.d.
 
 Sega Mega-Tech System, n.d.
+
+Skeleton from Minecraft, n.d.
 
 Sonic the Hedgehog Classic, n.d.
 

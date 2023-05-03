@@ -18,6 +18,8 @@ Consultancy-me.com, 2020. Covid-19 accelerates global video gaming market to $17
 
 Contributors to Wikimedia projects, 2023. Arrow keys \[WWW Document]. Wikipedia. URL [<mark style="color:blue;">https://en.wikipedia.org/wiki/Arrow\_keys</mark>](https://en.wikipedia.org/wiki/Arrow\_keys) (accessed 4.20.23).
 
+Gaubys, J., n.d. Most Popular Web Browsers in 2023 \[Mar ’23 Update]. Oberlo. URL [<mark style="color:blue;">https://www.oberlo.com/statistics/browser-market-share</mark>](https://www.oberlo.com/statistics/browser-market-share) (accessed 5.3.23).
+
 Goomba Picture, n.d.
 
 Hello Celeste people : R/celestegame \[WWW Document], n.d. . Reddit. URL [<mark style="color:blue;">https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/</mark>](https://www.reddit.com/r/celestegame/comments/lkn3x1/hello\_celeste\_people/) (accessed 4.13.23).
@@ -25,6 +27,8 @@ Hello Celeste people : R/celestegame \[WWW Document], n.d. . Reddit. URL [<mar
 How long is Celeste? \[WWW Document], n.d. . HowLongToBeat. URL [<mark style="color:blue;">https://howlongtobeat.com/game/42818</mark>](https://howlongtobeat.com/game/42818) (accessed 4.13.23).
 
 Media PEGI diagram \[WWW Document], n.d. . Quizlet. URL [<mark style="color:blue;">https://quizlet.com/gb/416656489/media-pegi-diagram/</mark>](https://quizlet.com/gb/416656489/media-pegi-diagram/) (accessed 4.4.23).
+
+Most Popular Browsers Graph 2023, 2023.
 
 Nintendo Entertainment System, n.d.
 

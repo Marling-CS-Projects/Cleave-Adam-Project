@@ -48,6 +48,8 @@ Sonic the Hedgehog Classic, n.d.
 
 Super Mario Bros., n.d.
 
+Swinging Sword GIF, n.d.
+
 Video game market size & share growth report, 2030 \[WWW Document], n.d. . Grandviewresearch.com. URL [<mark style="color:blue;">https://www.grandviewresearch.com/industry-analysis/video-game-market</mark>](https://www.grandviewresearch.com/industry-analysis/video-game-market) (accessed 3.28.23).
 
 Video standards council ratings board \[WWW Document], n.d. URL [<mark style="color:blue;">https://videostandards.org.uk/RatingBoard/games/Fortnite</mark>](https://videostandards.org.uk/RatingBoard/games/Fortnite) (accessed 4.8.23).

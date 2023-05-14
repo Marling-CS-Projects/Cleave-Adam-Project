@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🥶 Adam Cleave's A-Level Project](README.md)
+* [💀 Adam Cleave's A-Level Project](README.md)
 * [📖 Reference Page](reference-page.md)
 
 ## 🖊 1 Analysis <a href="#analysis" id="analysis"></a>

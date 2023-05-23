@@ -4,7 +4,7 @@
 
 ### Objectives
 
-\[describe the cycle]
+In the first cycle, my objectives are to create the html webpage and then to add the layers and sprites. Completing the steps in this order should lay out a strong, progressive structure for my game. The layers don't need to be too detailed at this point, graphics quality improvements can be adjusted later on.
 
 * [x] Do a thing
 * [x] Do another thing

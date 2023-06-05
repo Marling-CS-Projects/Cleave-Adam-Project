@@ -9,8 +9,8 @@ In the first cycle, my objectives are to create the html webpage and then to add
 * [x] Set up the HTML and Javascript in Visual Studio Code
 * [ ] Set up the layers on the screen
 * [ ] Implement boundaries
-* [ ] Add the player (can be a simple shape for now)
-* [ ] Implement gravity into the game
+* [x] Add the player (can be a simple shape for now)
+* [x] Implement gravity into the game
 
 ### Usability Features
 

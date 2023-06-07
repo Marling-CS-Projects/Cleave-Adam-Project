@@ -79,9 +79,9 @@ Evidence for testing
 
 ### Tests
 
-| Test | Instructions  | What I expect     | What actually happens | Pass/Fail |
-| ---- | ------------- | ----------------- | --------------------- | --------- |
-| 1    | Run code      | Thing happens     | As expected           | Pass      |
-| 2    | Press buttons | Something happens | As expected           | Pass      |
+| Test | Instructions  | What I expect                                                                    | What actually happens | Pass/Fail |
+| ---- | ------------- | -------------------------------------------------------------------------------- | --------------------- | --------- |
+| 1    | Run code      | The game to start, boundaries rendered, player placed.                           | As expected           | Pass      |
+| 2    | Press buttons | The player is able to move in all directions. This includes the ability to jump. | As expected           | Pass      |
 
 ### Evidence

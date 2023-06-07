@@ -7,8 +7,8 @@
 In the first cycle, my objectives are to create the html webpage and then to add the layers and sprites. Completing the steps in this order should lay out a strong, progressive structure for my game. The layers don't need to be too detailed at this point, graphics quality improvements can be adjusted later on.
 
 * [x] Set up the HTML and Javascript in Visual Studio Code
-* [ ] Set up the layers on the screen
-* [ ] Implement boundaries
+* [x] Set up the layers on the screen
+* [x] Implement boundaries
 * [x] Add the player (can be a simple shape for now)
 * [x] Implement gravity into the game
 
@@ -22,16 +22,47 @@ Contrasting colours will be used to show clear boundaries and will help me to sp
 
 ### Key Variables
 
-| Variable Name | Use                   |
-| ------------- | --------------------- |
-| foo           | does something useful |
+| Variable Name | Use                                          |
+| ------------- | -------------------------------------------- |
+| setGravity    | Defines the value for gravity used.          |
+| moveSpeed     | Defines the value for player movement speed. |
+| bulletSpeed   | Defines the value for player bullet speed.   |
 
 ### Pseudocode
 
 ```
-procedure do_something
-    
-end procedure
+import kaboom
+
+define(gravity)
+
+load(player)
+place(player)
+
+render(platform)
+
+
+define(moveSpeed)
+if up arrow pressed: { 
+  move player up by moveSpeed
+};
+if left arrow pressed: {
+  move player left by moveSpeed
+};
+if down arrow pressed: {
+  move player down by moveSpeed
+};
+if right arrow pressed: {
+  move player right by moveSpeed
+};
+
+
+define(bulletSpeed)
+load(bullet)
+place(bullet)
+
+if left mouse pressed: {
+  spawn bullet at bulletSpeed
+  };
 ```
 
 ## Development

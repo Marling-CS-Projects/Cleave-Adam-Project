@@ -71,6 +71,9 @@ if left mouse pressed: {
 
 ### Outcome
 
+* I now have a functioning boundary around the edge of the screen.
+* I&#x20;
+
 ### Challenges
 
 Description of challenges

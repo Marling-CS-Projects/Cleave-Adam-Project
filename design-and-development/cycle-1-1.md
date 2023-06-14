@@ -6,11 +6,8 @@
 
 In the second cycle, my objectives are to implemend the basic controls and allow the player's character to move around the screen. Completing the steps in this order should lay out a strong, progressive structure for my game. The layers don't need to be too detailed at this point, graphics quality improvements can be adjusted later on.
 
-* [x] Set up the HTML and Javascript in Repl.it
-* [x] Set up the layers on the screen
-* [x] Implement boundaries
-* [x] Add the player (can be a simple shape for now)
-* [x] Implement gravity into the game
+* [x] Implement Player movement
+* [x] Utilise basic controls for the movement as specified in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).
 
 ### Usability Features
 

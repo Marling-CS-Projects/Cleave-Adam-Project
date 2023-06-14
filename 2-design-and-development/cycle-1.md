@@ -22,11 +22,10 @@ Boundaries will be used to prevent the player from falling out of the map. This 
 
 ### Key Variables
 
-| Variable Name | Use                                          |
-| ------------- | -------------------------------------------- |
-| setGravity    | Defines the value for gravity used.          |
-| moveSpeed     | Defines the value for player movement speed. |
-| bulletSpeed   | Defines the value for player bullet speed.   |
+| Variable Name | Use                                        |
+| ------------- | ------------------------------------------ |
+| setGravity    | Defines the value for gravity used.        |
+| bulletSpeed   | Defines the value for player bullet speed. |
 
 ### Pseudocode
 
@@ -39,22 +38,6 @@ load(player)
 place(player)
 
 render(platform)
-
-
-define(moveSpeed)
-if up arrow pressed: { 
-  move player up by moveSpeed
-};
-if left arrow pressed: {
-  move player left by moveSpeed
-};
-if down arrow pressed: {
-  move player down by moveSpeed
-};
-if right arrow pressed: {
-  move player right by moveSpeed
-};
-
 
 define(bulletSpeed)
 load(bullet)
@@ -107,53 +90,19 @@ add([
 
 
 
-* The player is now able to be controlled once they have been rendered, the code for this can be viewed below:
-
-```
-// MOVEMENT
-
-// Define player movement speed (pixels per second)
-const moveSpeed = 320
-
-// jump when player presses "space" key
-onKeyDown("space", () => {
-    // .jump() is provided by the body() component
-    player.jump()
-})
-
-// jump when player presses "up" key
-onKeyDown("up", () => {
-	player.jump()
-})
-
-// onKeyDown() registers an event that runs every frame as long as user is holding a certain key
-onKeyDown("left", () => {
-	// .move() is provided by pos() component, move by pixels per second
-	player.move(-moveSpeed, 0)
-})
-
-onKeyDown("right", () => {
-	player.move(moveSpeed, 0)
-})
-
-onKeyDown("down", () => {
-	player.move(0, moveSpeed)
-})
-```
-
 ### Challenges
 
 Description of challenges
 
 ## Testing
 
-Evidence for testing
+Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 
 ### Tests
 
-| Test | Instructions  | What I expect                                                                    | What actually happens | Pass/Fail |
-| ---- | ------------- | -------------------------------------------------------------------------------- | --------------------- | --------- |
-| 1    | Run code      | The game to start, boundaries rendered, player placed.                           | As expected           | Pass      |
-| 2    | Press buttons | The player is able to move in all directions. This includes the ability to jump. | As expected           | Pass      |
+| Test | Instructions | What I expect                                             | What actually happens | Pass/Fail |
+| ---- | ------------ | --------------------------------------------------------- | --------------------- | --------- |
+| 1    | Run code     | The game to start, boundaries rendered, player placed.    | As expected           | Pass      |
+| 2    | Watch Player | The player is pulled downwards due to artificial gravity. | As expected           | Pass      |
 
 ### Evidence

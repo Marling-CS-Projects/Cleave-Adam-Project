@@ -92,7 +92,10 @@ add([
 
 ### Challenges
 
-Description of challenges
+Some challenges I faced during this cycle:
+
+* Implemending the boundaries at different orientations.
+* Assigning the common key bindings to the movement actions.
 
 ## Testing
 

@@ -90,9 +90,7 @@ class Level extends Phaser Scene
         draw background
         create players
         create platforms
-        create puzzle elements
         create enemies
-        create obstacles
         create finishing position
         create key bindings
     end procedure
@@ -100,7 +98,6 @@ class Level extends Phaser Scene
     procedure update
         handle key presses
         move player
-        move interactable objects
         update animations
         check if player at exit
     end procedure

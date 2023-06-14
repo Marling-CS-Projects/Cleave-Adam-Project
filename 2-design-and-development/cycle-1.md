@@ -100,9 +100,9 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Tests
 
-| Test | Instructions | What I expect                                             | What actually happens | Pass/Fail |
-| ---- | ------------ | --------------------------------------------------------- | --------------------- | --------- |
-| 1    | Run code     | The game to start, boundaries rendered, player placed.    | As expected           | Pass      |
-| 2    | Watch Player | The player is pulled downwards due to artificial gravity. | As expected           | Pass      |
+| Test | Instructions  | What I expect                                             | What actually happens | Pass/Fail |
+| ---- | ------------- | --------------------------------------------------------- | --------------------- | --------- |
+| 1    | Run code.     | The game to start, boundaries rendered, player placed.    | As expected           | Pass      |
+| 2    | Watch Player. | The player is pulled downwards due to artificial gravity. | As expected           | Pass      |
 
 ### Evidence

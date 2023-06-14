@@ -19,23 +19,11 @@ Implementing my simple game controls into the project. This will allow the user 
 
 | Variable Name | Use                                          |
 | ------------- | -------------------------------------------- |
-| setGravity    | Defines the value for gravity used.          |
 | moveSpeed     | Defines the value for player movement speed. |
-| bulletSpeed   | Defines the value for player bullet speed.   |
 
 ### Pseudocode
 
 ```
-import kaboom
-
-define(gravity)
-
-load(player)
-place(player)
-
-render(platform)
-
-
 define(moveSpeed)
 if up arrow pressed: { 
   move player up by moveSpeed
@@ -49,58 +37,11 @@ if down arrow pressed: {
 if right arrow pressed: {
   move player right by moveSpeed
 };
-
-
-define(bulletSpeed)
-load(bullet)
-place(bullet)
-
-if left mouse pressed: {
-  spawn bullet at bulletSpeed
-  };
 ```
 
 ## Development
 
 ### Outcome
-
-* I now have a functioning boundary around the edge of the screen, the code for this can be viewed below:
-
-```
-// Boundaries and Collisions
-
-// Add a platform to be bottom boundary
-add([
-	rect(width(), 48),
-	outline(4),
-	area(),
-	pos(0, height() - 25),
-	// Give objects a body() component if you don't want other solid objects pass through
-	body({ isStatic: true }),
-])
-
-// Add a platform to be top boundary
-add([
-    rect(width(), 48), // Adjusted the width and height to create a horizontal rectangle
-    outline(4),
-    area(),
-    pos(0, 0),
-    // Changed the position to start from the top-left corner of the screen
-    body({ isStatic: true }),
-]);
-
-// Add a platform to be left boundary
-add([
-    rect(48, height()), // Adjusted the width and height to create a vertical rectangle
-    outline(4),
-    area(),
-    pos(0, 0),
-    // Changed the position to start from the bottom-left corner of the screen
-    body({ isStatic: true }),
-]);
-```
-
-
 
 * The player is now able to be controlled once they have been rendered, the code for this can be viewed below:
 
@@ -146,9 +87,9 @@ Evidence for testing
 
 ### Tests
 
-| Test | Instructions  | What I expect                                                                    | What actually happens | Pass/Fail |
-| ---- | ------------- | -------------------------------------------------------------------------------- | --------------------- | --------- |
-| 1    | Run code      | The game to start, boundaries rendered, player placed.                           | As expected           | Pass      |
-| 2    | Press buttons | The player is able to move in all directions. This includes the ability to jump. | As expected           | Pass      |
+| Test | Instructions                     | What I expect                                                                    | What actually happens | Pass/Fail |
+| ---- | -------------------------------- | -------------------------------------------------------------------------------- | --------------------- | --------- |
+| 1    | Run code.                        | The game to start, boundaries still rendered and player still placed.            | As expected           | Pass      |
+| 2    | Movement keys: WASD are pressed. | The player is able to move in all directions. This includes the ability to jump. | As expected           | Pass      |
 
 ### Evidence

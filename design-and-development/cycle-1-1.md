@@ -79,7 +79,10 @@ onKeyDown("down", () => {
 
 ### Challenges
 
-Finding the correct code to correspond to the correct keys.
+Some challenges I faced during this cycle:
+
+* Finding the correct code to correspond with the selected key bindings.
+* Allowing multiple actions at once (jump and direction).
 
 ## Testing
 

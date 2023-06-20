@@ -93,3 +93,6 @@ Evidence for testing
 | 2    | Movement keys: WASD are pressed. | The player is able to move in all directions. This includes the ability to jump. | As expected           | Pass      |
 
 ### Evidence
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+

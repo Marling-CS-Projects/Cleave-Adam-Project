@@ -109,3 +109,5 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 | 2    | Watch Player. | The player is pulled downwards due to artificial gravity. | As expected           | Pass      |
 
 ### Evidence
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

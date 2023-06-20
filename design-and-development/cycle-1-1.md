@@ -79,7 +79,7 @@ onKeyDown("down", () => {
 
 ### Challenges
 
-Description of challenges
+Finding the correct code to correspond to the correct keys.
 
 ## Testing
 

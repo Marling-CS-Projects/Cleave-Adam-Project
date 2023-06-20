@@ -110,4 +110,4 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Evidence
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

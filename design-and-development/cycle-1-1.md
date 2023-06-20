@@ -86,7 +86,7 @@ Some challenges I faced during this cycle:
 
 ## Testing
 
-Evidence for testing
+Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 
 ### Tests
 

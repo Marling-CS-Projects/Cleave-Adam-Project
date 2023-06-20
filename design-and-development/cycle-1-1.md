@@ -4,7 +4,7 @@
 
 ### Objectives
 
-In the second cycle, my objectives are to implemend the basic controls and allow the player's character to move around the screen. Completing the steps in this order should lay out a strong, progressive structure for my game. The layers don't need to be too detailed at this point, graphics quality improvements can be adjusted later on.
+In the second cycle, my objectives are to implement the basic controls and allow the player's character to move around the screen. Completing the steps in this order should lay out a strong, progressive structure for my game. The layers don't need to be too detailed at this point, graphics quality improvements can be adjusted later on.
 
 * [x] Implement Player movement
 * [x] Utilise basic controls for the movement as specified in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).

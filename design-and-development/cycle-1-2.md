@@ -6,7 +6,7 @@
 
 In the third cycle, my objectives are to implement hostile enemies into the game. For now, I will only be adding the Grunt as detailed in [<mark style="color:blue;">1.4a Features of Proposed Solution</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#opponents). At this point, the Grunts don't need to be too detailed, a simple shape or image will do. I will also add a cooldown for the Player's jump ability otherwise, the Player is able to fly.
 
-* [ ] Cooldown for jump ability.
+* [x] Cooldown for jump ability.
 * [ ] Add Grunts as specified in [<mark style="color:blue;">1.4a Features of Proposed Solution</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#opponents).
 * [ ] Grunts should damage or kill the player.
 
@@ -18,9 +18,10 @@ The Player's movement will be significantly more realistic since they will not b
 
 ### Key Variables
 
-| Variable Name | Use |
-| ------------- | --- |
-|               |     |
+| Variable Name | Use                                                        |
+| ------------- | ---------------------------------------------------------- |
+| jumpForce     | Defines the force value used when jump function is called. |
+| jumpProcedure | Boolean variable used to run jump function and cooldown.   |
 
 ### Pseudocode
 
@@ -33,14 +34,55 @@ The Player's movement will be significantly more realistic since they will not b
 
 * The player is no longer able to fly using the jump keys, the code for this can be viewed below:
 
-```
+```javascript
+//Define jump force
+const jumpForce = 800
+
+// Define jump() function
+function jump() {
+	// these 2 functions are provided by body() component
+	if (player.isGrounded()) {
+		player.jump(jumpForce)
+	}
+}
+
+
+// Jump when 'space' is pressed
+let jumpProcedure = false;
+
+onKeyDown("space", () => {
+  if (!jumpProcedure) {
+    jumpProcedure = true;
+    // run jump function
+    jump();
+    // wait duration
+    wait(0.8, () => {
+      jumpProcedure = false;
+    });
+  }
+});
+
+// Jump when 'up' is pressed
+
+onKeyDown("up", () => {
+  if (!jumpProcedure) {
+    jumpProcedure = true;
+    // run jump function
+    jump();
+    // wait duration
+    wait(0.8, () => {
+      jumpProcedure = false;
+    });
+  }
+});
+
 ```
 
 ### Challenges
 
 Some challenges I faced during this cycle:
 
-*
+* I had to rewrite the entire jumping procedure and include a loop which called a function.
 *
 
 ## Testing
@@ -49,10 +91,10 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Tests
 
-| Test | Instructions                 | What I expect                                                                               | What actually happens | Pass/Fail |
-| ---- | ---------------------------- | ------------------------------------------------------------------------------------------- | --------------------- | --------- |
-| 1    | Run code.                    | The game to start, boundaries rendered, player and Grunt placed.                            | As expected           | Pass      |
-| 2    | Jump key repeatedly pressed. | The Player's character is unable to fly upwards and has a short cooldown between each jump. | As expected           | Pass      |
+| Test | Instructions                       | What I expect                                                                               | What actually happens | Pass/Fail |
+| ---- | ---------------------------------- | ------------------------------------------------------------------------------------------- | --------------------- | --------- |
+| 1    | Run code.                          | The game to start, boundaries rendered, player and Grunt placed.                            | As expected           | Pass      |
+| 2    | Both jump keys repeatedly pressed. | The Player's character is unable to fly upwards and has a short cooldown between each jump. | As expected           | Pass      |
 
 ### Evidence
 

@@ -54,7 +54,7 @@ if left mouse pressed: {
 
 * I now have a functioning boundary around the edge of the screen, the code for this can be viewed below:
 
-```
+```javascript
 // Boundaries and Collisions
 
 // Add a platform to be bottom boundary

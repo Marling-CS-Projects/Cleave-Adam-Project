@@ -45,7 +45,7 @@ if right arrow pressed: {
 
 * The player is now able to be controlled once they have been rendered, the code for this can be viewed below:
 
-```
+```javascript
 // MOVEMENT
 
 // Define player movement speed (pixels per second)

@@ -110,4 +110,14 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Evidence
 
+
+
+The screenshot below shows the rendered sprite and boundaries around the edges of the screen, it completes the following tasks for this cycle:
+
+* [x] Set up the HTML and Javascript in Repl.it
+* [x] Set up the layers on the screen
+* [x] Implement boundaries
+* [x] Add the player (can be a simple shape for now)
+* [x] Implement gravity into the game
+
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

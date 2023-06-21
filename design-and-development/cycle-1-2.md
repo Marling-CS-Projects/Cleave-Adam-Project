@@ -83,7 +83,6 @@ onKeyDown("up", () => {
 Some challenges I faced during this cycle:
 
 * I had to rewrite the entire jumping procedure and include a loop which called a function.
-*
 
 ## Testing
 
@@ -98,3 +97,46 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Evidence
 
+The code snippet below shows the Javascript for the jump cooldown, it completes the following tasks for this cycle:
+
+* [x] Cooldown for jump ability.
+
+```javascript
+// Define jump() function
+function jump() {
+	// these 2 functions are provided by body() component
+	if (player.isGrounded()) {
+		player.jump(jumpForce)
+	}
+}
+
+
+// Jump when 'space' is pressed
+let jumpProcedure = false;
+
+onKeyDown("space", () => {
+  if (!jumpProcedure) {
+    jumpProcedure = true;
+    // run jump function
+    jump();
+    // wait duration
+    wait(0.8, () => {
+      jumpProcedure = false;
+    });
+  }
+});
+
+// Jump when 'up' is pressed
+
+onKeyDown("up", () => {
+  if (!jumpProcedure) {
+    jumpProcedure = true;
+    // run jump function
+    jump();
+    // wait duration
+    wait(0.8, () => {
+      jumpProcedure = false;
+    });
+  }
+});
+```

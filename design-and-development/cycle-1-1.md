@@ -97,5 +97,39 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Evidence
 
+The screenshot below shows the rendered sprite after moving from its original position, it completes the following tasks for this cycle:
+
+* [x] Implement Player movement
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+The code snippet below shows Javascript for the basic controls used, it completes the following tasks for this cycle:
+
+* [x] Utilise basic controls for the movement as specified in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).
+
+```javascript
+// jump when player presses "space" key
+onKeyDown("space", () => {
+    // .jump() is provided by the body() component
+    player.jump()
+})
+
+// jump when player presses "up" key
+onKeyDown("up", () => {
+	player.jump()
+})
+
+// onKeyDown() registers an event that runs every frame as long as user is holding a certain key
+onKeyDown("left", () => {
+	// .move() is provided by pos() component, move by pixels per second
+	player.move(-moveSpeed, 0)
+})
+
+onKeyDown("right", () => {
+	player.move(moveSpeed, 0)
+})
+
+onKeyDown("down", () => {
+	player.move(0, moveSpeed)
+})
+```

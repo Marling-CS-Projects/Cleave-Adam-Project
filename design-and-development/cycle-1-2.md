@@ -25,7 +25,29 @@ The Player's movement will be significantly more realistic since they will not b
 
 ### Pseudocode
 
+The pseudocode for the new jumping procedure is shown below:
+
 ```
+Define jump force jumpForce = 800
+
+// Define jump() function
+Function jump():
+ If player is grounded:
+  Call player.jump(jumpForce)
+
+// Jump when 'space' is pressed
+ jumpProcedure = false
+ On key down "space": 
+  If jumpProcedure is not true:
+   Set jumpProcedure to true Call jump()
+   Wait for 0.8 seconds, then:
+    Set jumpProcedure to false
+
+// Jump when 'up' is pressed On key down "up":
+ If jumpProcedure is not true:
+  Set jumpProcedure to true Call jump()
+  Wait for 0.8 seconds, then:
+   Set jumpProcedure to false
 ```
 
 ## Development
@@ -75,7 +97,6 @@ onKeyDown("up", () => {
     });
   }
 });
-
 ```
 
 ### Challenges

@@ -101,7 +101,7 @@ The screenshot below shows the rendered sprite after moving from its original po
 
 * [x] Implement Player movement
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/Vrty9NAZrpE" %}
 
 The code snippet below shows Javascript for the basic controls used, it completes the following tasks for this cycle:
 

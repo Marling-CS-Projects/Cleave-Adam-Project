@@ -50,7 +50,6 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 | Test | Instructions | What I expect                                                                                          | What actually happens | Pass/Fail |
 | ---- | ------------ | ------------------------------------------------------------------------------------------------------ | --------------------- | --------- |
 | 1    | Run code.    | The game to start, boundaries still rendered, player placed into tropical environment for first level. | As expected           | Pass      |
-| 2    |              |                                                                                                        | As expected           | Pass      |
 
 ### Evidence
 

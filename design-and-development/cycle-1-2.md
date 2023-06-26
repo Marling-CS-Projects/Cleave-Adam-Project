@@ -4,10 +4,11 @@
 
 ### Objectives
 
-In the third cycle, my objectives are to add a cooldown for the Player's jump ability. This is crucial becasue otherwise, the Player is able to fly. This is because there is no time gap between each allowable jump key press.
+In the third cycle, my objectives are to add a cooldown for the Player's jump ability. This is crucial becasue otherwise, the Player is able to fly. This is because there is no time gap between each allowable jump key press. I will also implement the "Side Scrolling View" as described in [<mark style="color:blue;">1.4a 2D View</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#2d-view).
 
 * [x] Cooldown for jump ability.
 * [x] Cooldown works with both "Up" and "Space" keys.
+* [x] Side Scrolling View, centers the Player's character in the middle of the screen.
 
 ### Usability Features
 
@@ -112,8 +113,9 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 | Test | Instructions                       | What I expect                                                                               | What actually happens | Pass/Fail |
 | ---- | ---------------------------------- | ------------------------------------------------------------------------------------------- | --------------------- | --------- |
-| 1    | Run code.                          | The game to start, boundaries rendered, player and Grunt placed.                            | As expected           | Pass      |
-| 2    | Both jump keys repeatedly pressed. | The Player's character is unable to fly upwards and has a short cooldown between each jump. | As expected           | Pass      |
+| 1    | Run code.                          | The game to start, boundaries rendered, player and Grunt placed.                            | As expected.          | Pass.     |
+| 2    | Both jump keys repeatedly pressed. | The Player's character is unable to fly upwards and has a short cooldown between each jump. | As expected.          | Pass.     |
+| 3    | Movement keys pressed.             | Camera to closely follow the Player's character to keep them centered on the screen.        | As expected.          | Pass.     |
 
 ### Evidence
 
@@ -160,4 +162,24 @@ onKeyDown("up", () => {
     });
   }
 });
+```
+
+
+
+The code snippet below shows the Javascript for the "Side Scrolling View", it completes the following tasks for this cycle:
+
+* [x] Side Scrolling View, centers the Player's character in the middle of the screen.
+
+```javascript
+// Viewpoint
+
+player.onUpdate(() => {
+	// Set the viewport center to player.pos
+	camPos(player.worldPos())
+})
+
+player.onPhysicsResolve(() => {
+	// Set the viewport center to player.pos
+	camPos(player.worldPos())
+})
 ```

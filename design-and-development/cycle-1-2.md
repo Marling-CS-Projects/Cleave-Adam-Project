@@ -54,7 +54,7 @@ Function jump():
 
 ### Outcome
 
-* The player is no longer able to fly using the jump keys, the code for this can be viewed below:
+* The player is no longer able to fly using the jump keys and the game will follow the Player's character as they traverse across the map, the code for this can be viewed below:
 
 ```javascript
 //Define jump force
@@ -97,6 +97,19 @@ onKeyDown("up", () => {
     });
   }
 });
+
+
+// Viewpoint
+
+player.onUpdate(() => {
+	// Set the viewport center to player.pos
+	camPos(player.worldPos())
+})
+
+player.onPhysicsResolve(() => {
+	// Set the viewport center to player.pos
+	camPos(player.worldPos())
+})
 ```
 
 ### Challenges
@@ -104,6 +117,7 @@ onKeyDown("up", () => {
 Some challenges I faced during this cycle:
 
 * I had to rewrite the entire jumping procedure and include a loop which called a function.
+* I had to get the sizing right for the camera view otherwise, everything looked out of proportion.
 
 ## Testing
 

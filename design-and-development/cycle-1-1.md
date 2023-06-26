@@ -97,7 +97,7 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Evidence
 
-The screenshot below shows the rendered sprite after moving from its original position, it completes the following tasks for this cycle:
+The screen recording below shows the rendered sprite after moving from its original position, it completes the following tasks for this cycle:
 
 * [x] Implement Player movement
 

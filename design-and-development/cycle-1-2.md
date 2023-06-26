@@ -12,7 +12,7 @@ In the third cycle, my objectives are to add a cooldown for the Player's jump ab
 
 ### Usability Features
 
-The Player's movement will be significantly more realistic since they will not be able to fly. Their jump cooldown will be around 0.5 - 1.0 seconds depending on further testing.
+The Player's movement will be significantly more realistic since they will not be able to fly. Their jump cooldown will be around 0.5 - 1.0 seconds depending on further testing. The camera will also follow the player as they traverse around the map.
 
 
 

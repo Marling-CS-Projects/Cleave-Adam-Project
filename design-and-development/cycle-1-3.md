@@ -17,9 +17,12 @@ Implementing my tropical level design into the project. This will allow the user
 
 ### Key Variables
 
-| Variable Name | Use |
-| ------------- | --- |
-|               |     |
+| Variable Name   | Use                                              |
+| --------------- | ------------------------------------------------ |
+| sprite("Bean")  | Is used to render the bean in the level.         |
+| sprite("Grass") | Is used to render the grass blocks in the level. |
+| sprite("Coin")  | Is used to render the coins in the level.        |
+| sprite("Spike") | Is used to render the spikes in the level.       |
 
 ### Pseudocode
 
@@ -30,10 +33,52 @@ Implementing my tropical level design into the project. This will allow the user
 
 ### Outcome
 
-* The player is now placed into a tropical environment for the first level, the code for this can be viewed below:
+* The player is now placed into a basic environment for the first level, the code for this can be viewed below:
 
 ```javascript
+const level = addLevel([
+	// Design the level layout with symbols
+    "=       ",
+	"=   ^ $$",
+	"==============",
+], {
+	// The size of each grid
+	tileWidth: 64,
+	tileHeight: 64,
+	// The position of the top left block
+	pos: vec2(100, 200),
+	// Define what each symbol means (in components)
+	tiles: {
+		"@": () => [
+			sprite("Bean"),
+			area(),
+			body(),
+			anchor("bot"),
+			"player",
+		],
+		"=": () => [
+			sprite("Grass"),
+			area(),
+			body({ isStatic: true }),
+			anchor("bot"),
+		],
+		"$": () => [
+			sprite("Coin"),
+			area(),
+			anchor("bot"),
+			"coin",
+		],
+		"^": () => [
+			sprite("Spike"),
+			area(),
+			anchor("bot"),
+			"danger",
+		],
+	},
+})
 ```
+
+This code generates the first level completely differently to the code beforehand. Instead of using simple blocks and rectangles, it now utilises variables for each block type (grass blocks, spikes, coins).
 
 ### Challenges
 

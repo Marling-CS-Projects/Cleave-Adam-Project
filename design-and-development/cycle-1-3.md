@@ -26,7 +26,57 @@ Implementing my tropical level design into the project. This will allow the user
 
 ### Pseudocode
 
+The pseudocode for the new level generation is shown below:
+
 ```
+level = addLevel([
+    "=       ",
+    "=   ^ $$",
+    "==============",
+], {
+    tileWidth: 64,
+    tileHeight: 64,
+    pos: vec2(100, 200),
+    tiles: {
+        "@": function() {
+            /* Create a player object with components */
+            return [
+                sprite("Bean"),
+                area(),
+                body(),
+                anchor("bot"),
+                "player",
+            ];
+        },
+        "=": function() {
+            /* Create a grass object with components */
+            return [
+                sprite("Grass"),
+                area(),
+                body({ isStatic: true }),
+                anchor("bot"),
+            ];
+        },
+        "$": function() {
+            /* Create a coin object with components */
+            return [
+                sprite("Coin"),
+                area(),
+                anchor("bot"),
+                "coin",
+            ];
+        },
+        "^": function() {
+            /* Create a spike object with components */
+            return [
+                sprite("Spike"),
+                area(),
+                anchor("bot"),
+                "danger",
+            ];
+        },
+    },
+});
 ```
 
 ## Development

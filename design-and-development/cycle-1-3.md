@@ -17,12 +17,12 @@ Implementing my tropical level design into the project. This will allow the user
 
 ### Key Variables
 
-| Variable Name   | Use                                              |
-| --------------- | ------------------------------------------------ |
-| sprite("Bean")  | Is used to render the bean in the level.         |
-| sprite("Grass") | Is used to render the grass blocks in the level. |
-| sprite("Coin")  | Is used to render the coins in the level.        |
-| sprite("Spike") | Is used to render the spikes in the level.       |
+| Variable Name   | Use                                             |
+| --------------- | ----------------------------------------------- |
+| sprite("Bean")  | Is used to render the bean in the level.        |
+| sprite("Sand")  | Is used to render the sand blocks in the level. |
+| sprite("Coin")  | Is used to render the coins in the level.       |
+| sprite("Spike") | Is used to render the spikes in the level.      |
 
 ### Pseudocode
 
@@ -49,9 +49,9 @@ level = addLevel([
             ];
         },
         "=": function() {
-            /* Create a grass object with components */
+            /* Create a sand object with components */
             return [
-                sprite("Grass"),
+                sprite("Sand"),
                 area(),
                 body({ isStatic: true }),
                 anchor("bot"),
@@ -107,7 +107,7 @@ const level = addLevel([
 			"player",
 		],
 		"=": () => [
-			sprite("Grass"),
+			sprite("Sand"),
 			area(),
 			body({ isStatic: true }),
 			anchor("bot"),
@@ -128,7 +128,7 @@ const level = addLevel([
 })
 ```
 
-This code generates the first level completely differently to the code beforehand. Instead of using simple blocks and rectangles, it now utilises variables for each block type (grass blocks, spikes, coins).
+This code generates the first level completely differently to the code beforehand. Instead of using simple blocks and rectangles, it now utilises variables for each block type (Sand blocks, spikes, coins).
 
 ### Challenges
 

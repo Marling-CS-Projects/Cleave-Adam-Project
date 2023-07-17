@@ -148,7 +148,9 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Evidence
 
-The screen recording below shows the first level design with the tropical environment blocks, it completes the following tasks for this cycle:
+The screenshot below shows the first level design with the tropical environment blocks, it completes the following tasks for this cycle:
 
 * [x] Implement the first level design.
 * [x] Utilise basic colours to depict a tropical environment as specified in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

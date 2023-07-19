@@ -63,8 +63,8 @@ The screenshots below shows the commented code, it completes the following tasks
 
 * [x] Comment and tidy up code.
 
-![](<../.gitbook/assets/image (6).png>)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (11).png>)
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (4).png>)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

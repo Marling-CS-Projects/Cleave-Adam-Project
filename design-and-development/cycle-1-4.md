@@ -134,3 +134,7 @@ The screen recording below shows the rendered sprite after moving from its origi
 
 * [x] Add Grunts as specified in [<mark style="color:blue;">1.4a Features of Proposed Solution</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#opponents).
 * [x] Grunts should damage or kill the player.
+
+
+
+{% embed url="https://youtu.be/WUfvGfy4c2s" %}

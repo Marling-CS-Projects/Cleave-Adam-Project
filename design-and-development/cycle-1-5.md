@@ -7,7 +7,7 @@
 In the sixth cycle, my objectives are to clean up and comment my existing code. This will be useful when debugging in the future. I am also going to implement the transition to the next level, it doesn't have to be detailed for now, a simple platform will do.
 
 * [x] Comment and tidy up code.
-* [ ] Implement a basic change to the next platform.
+* [x] Implement a basic change to the next platform.
 
 ### Usability Features
 
@@ -68,3 +68,13 @@ The screenshots below shows the commented code, it completes the following tasks
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+The screen recording below shows the teleporter moving the player to the next level after the first has been completed, it completes the following tasks for this cycle:
+
+* [x] Implement a basic change to the next platform.
+
+
+
+{% embed url="https://youtu.be/nyLMTrpXnKU" %}

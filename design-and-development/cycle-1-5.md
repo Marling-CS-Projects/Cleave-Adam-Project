@@ -19,16 +19,25 @@ The change to the next level further develops the game and makes it more enterta
 
 ### Key Variables
 
-| Variable Name | Use |
-| ------------- | --- |
-|               |     |
+| Variable Name | Use                                        |
+| ------------- | ------------------------------------------ |
+| levelId       | Corresponds to a specific level design.    |
+| LEVELS        | The variable containing all level designs. |
 
 ### Pseudocode
 
 The pseudocode for ....... is shown below:
 
-<pre><code><strong>Pseudocode here...
-</strong></code></pre>
+```
+On collision with "Portal":
+    if (levelId + 1) is less than the number of levels (LEVELS.length):
+        Go to "game" scene with parameters:
+            - levelId: levelId + 1
+            - coins: coins
+    else:
+        Go to "win" scene
+End on collision
+```
 
 ## Development
 
@@ -37,14 +46,24 @@ The pseudocode for ....... is shown below:
 * The player is now faced with another level after completing the first, the code for this can be viewed below:
 
 ```javascript
-Javascript here...
+// Portal
+	player.onCollide("Portal", () => {
+		if (levelId + 1 < LEVELS.length) {
+			go("game", {
+				levelId: levelId + 1,
+				coins: coins,
+			})
+		} else {
+			go("win")
+		}
+	})
 ```
 
 ### Challenges
 
 Some challenges I faced during this cycle:
 
-* The platform change was difficult to implement since I didn't know how to move the Sprite very well.
+* The platform change was difficult to implement since moving the Sprite to the correct position was difficult.
 
 ## Testing
 

@@ -26,7 +26,7 @@ The change to the next level further develops the game and makes it more enterta
 
 ### Pseudocode
 
-The pseudocode for ....... is shown below:
+The pseudocode for the Portal between the two levels is shown below:
 
 ```
 On collision with "Portal":

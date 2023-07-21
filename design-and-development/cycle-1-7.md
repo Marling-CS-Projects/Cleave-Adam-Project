@@ -64,10 +64,10 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Tests
 
-| Test | Instructions                                     | What I expect                                                                                   | What actually happens | Pass/Fail |
-| ---- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- | --------------------- | --------- |
-| 1    | Run code.                                        | The game to start, boundaries rendered, player, Grunts placed and teleporter avaliable for use. | As expected           | Pass      |
-| 2    | Move the Player's character into the teleporter. | The Player is moved to the second platform which contains a detailed forest environment.        | As expected           | Pass      |
+| Test | Instructions                               | What I expect                                                                                   | What actually happens | Pass/Fail |
+| ---- | ------------------------------------------ | ----------------------------------------------------------------------------------------------- | --------------------- | --------- |
+| 1    | Run code.                                  | The game to start, boundaries rendered, player, Grunts placed and teleporter avaliable for use. | As expected           | Pass      |
+| 2    | Move the Player's character into the coin. | The background music starts to play.                                                            | As expected           | Pass      |
 
 ### Evidence
 

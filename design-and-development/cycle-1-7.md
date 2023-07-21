@@ -4,13 +4,15 @@
 
 ### Objectives
 
-In the eighth cycle, my objectives are to \_\_ .
+In the eighth cycle, my objectives are to implement the background music as specified in the Systems Diagram in [<mark style="color:blue;">2.1 Design Frame</mark>](../2-design-and-development/systems-diagram.md). The aim for this is for it to be catchy and memorable, this will encourage people to play the game and try to keep in in their minds.
 
-* [x] Aim 1
+* [x] Implement background game music.
+* [x] The music must fit the style of the game.
+* [x] The music should be catchy.
 
 ### Usability Features
 
-The Player will feel more immersed in the environment that they are placed into. Therefore, making my game feel more exciting and enjoyable.
+The music will stay in the Player's heads if it is catchy. Therefore they will think about the game a lot and enjoy playing it.
 
 
 
@@ -25,7 +27,12 @@ The Player will feel more immersed in the environment that they are placed into.
 The pseudocode for the new level and its detail is shown below:
 
 ```
-Write here...
+// Music Coin
+On collision with "Coin":
+    Destroy the "Coin" object
+    Play the "Background Music" with no additional parameters
+    Increment the number of coins collected (coins += 1)
+End on collision
 ```
 
 ## Development
@@ -35,14 +42,21 @@ Write here...
 * Write here... , the code for this can be viewed below:
 
 ```javascript
-Write here...
+// Music Coin
+	player.onCollide("Coin", (c) => {
+		destroy(c)
+		play("Background Music", {
+		})
+		coins += 1
+	})
 ```
 
 ### Challenges
 
 Some challenges I faced during this cycle:
 
-* Write here... .
+* At first, I tried to implement a method for the music to be toggled on and off however, it proved to be very difficult.
+* I then tried to use two different keys to turn on and off the music however, that was incredibly difficult too.
 
 ## Testing
 
@@ -57,7 +71,10 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Evidence
 
-Write here... , it completes the following tasks for this cycle:
+The screen recording below shows the catchy background music implemented into the game, it completes the following tasks for this cycle:
 
-* [x] Aim 1
+* [x] Implement background game music.
+* [x] The music must fit the style of the game.
+* [x] The music should be catchy.
 
+{% embed url="https://www.youtube.com/watch?v=EEXK5nVRlf0" %}

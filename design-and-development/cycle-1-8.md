@@ -78,6 +78,13 @@ During state "move":
         Calculate direction as unit vector from twine position to player position
         Move twine in the direction scaled by ENEMY_SPEED
 End during state "move"
+
+
+
+
+On collision with "bullet":
+    Go to the "lose" scene
+End on collision
 ```
 
 ## Development
@@ -142,6 +149,14 @@ End during state "move"
         const dir = player.pos.sub(twine.pos).unit();
         twine.move(dir.scale(ENEMY_SPEED));
     });
+    
+    
+    
+    
+    // Handle collisions with twine's balls
+    player.onCollide("bullet", () => {
+        go("lose");
+    });
 ```
 
 ### Challenges
@@ -169,3 +184,4 @@ The screen recording below shows the Player being defeated by the hostile Twine,
 * [x] Add Twine as specified in [<mark style="color:blue;">1.4a Features of Proposed Solution</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#opponents).
 * [x] Twine should damage or kill the player.
 
+{% embed url="https://youtu.be/9unGgKtRhH8" %}

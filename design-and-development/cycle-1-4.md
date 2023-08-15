@@ -11,7 +11,7 @@ In the fifth cycle, my objectives are to implement hostile enemies into the game
 
 ### Usability Features
 
-The Player will have to avoid the Grunts since they will cause the Player's character to end the game. This will add excitement into the game since there is now a risk factor.
+The Player will have to avoid the Grunts since they will cause the Player to die and the game to end. This will add excitement into the game since there is now a risk factor.
 
 
 
@@ -70,7 +70,7 @@ end function
 
 ### Outcome
 
-* The player is now faced will the Grunt opponents when the game begins, the code for this can be viewed below:
+* The player is now faced with the Grunt opponents when the game begins, the code for this can be viewed below:
 
 ```javascript
 // Grunts

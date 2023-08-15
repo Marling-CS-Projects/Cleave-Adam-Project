@@ -172,16 +172,16 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Tests
 
-| Test | Instructions                                             | What I expect                                                           | What actually happens | Pass/Fail |
-| ---- | -------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------- | --------- |
-| 1    | Run code.                                                | The game to start, boundaries rendered, player, Grunt and Twine placed. | As expected           | Pass      |
-| 2    | Collide the Player's character with the Twine's bullets. | The Player loses the game and the game is reset.                        | As expected           | Pass      |
+| Test | Instructions                                             | What I expect                                    | What actually happens | Pass/Fail |
+| ---- | -------------------------------------------------------- | ------------------------------------------------ | --------------------- | --------- |
+| 1    | Run code.                                                | The game to start, Twine placed.                 | As expected           | Pass      |
+| 2    | Collide the Player's character with the Twine's bullets. | The Player loses the game and the game is reset. | As expected           | Pass      |
 
 ### Evidence
 
 The screen recording below shows the Player being defeated by the hostile Twine, it completes the following tasks for this cycle:
 
-* [x] Add Twine as specified in [<mark style="color:blue;">1.4a Features of Proposed Solution</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#opponents).
-* [x] Twine should damage or kill the player.
+* [x] Add Twines as specified in [<mark style="color:blue;">1.4a Features of Proposed Solution</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#opponents).
+* [x] Twines should damage or kill the player.
 
 {% embed url="https://youtu.be/9unGgKtRhH8" %}

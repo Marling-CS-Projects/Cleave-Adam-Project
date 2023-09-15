@@ -16,16 +16,15 @@
 ## 🎨 2 Design and Development <a href="#design-and-development" id="design-and-development"></a>
 
 * [2.1 Design Frame](2-design-and-development/systems-diagram.md)
-* [2.2.1 Cycle 1](2-design-and-development/cycle-1.md)
-* [2.2.2 Cycle 2](design-and-development/cycle-1-1.md)
-* [2.2.3 Cycle 3](design-and-development/cycle-1-2.md)
-* [2.2.4 Cycle 4](design-and-development/cycle-1-3.md)
-* [2.2.5 Cycle 5](design-and-development/cycle-1-4.md)
-* [2.2.6 Cycle 6](design-and-development/cycle-1-5.md)
-* [2.2.7 Cycle 7](design-and-development/cycle-1-6.md)
-* [2.2.8 Cycle 8](design-and-development/cycle-1-7.md)
-* [2.2.9 Cycle 9](design-and-development/cycle-1-8.md)
-* [Spare Code](design-and-development/spare-code.md)
+* [2.2.1 Cycle 1 - Player and Boundaries](2-design-and-development/cycle-1.md)
+* [2.2.2 Cycle 2 - Movement](design-and-development/cycle-1-1.md)
+* [2.2.3 Cycle 3 - Jumping and Perspective](design-and-development/cycle-1-2.md)
+* [2.2.4 Cycle 4 - First Level](design-and-development/cycle-1-3.md)
+* [2.2.5 Cycle 5 - Grunts](design-and-development/cycle-1-4.md)
+* [2.2.6 Cycle 6 - Level Change](design-and-development/cycle-1-5.md)
+* [2.2.7 Cycle 7 - Second Level](design-and-development/cycle-1-6.md)
+* [2.2.8 Cycle 8 - Background Music](design-and-development/cycle-1-7.md)
+* [2.2.9 Cycle 9 - Twines](design-and-development/cycle-1-8.md)
 
 ## 👨🔬 3 Testing <a href="#testing" id="testing"></a>
 

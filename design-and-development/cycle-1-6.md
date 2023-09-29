@@ -1,6 +1,6 @@
-# 2.2.7 Cycle 7
+# 2.2.7 Cycle 7 - Second Level
 
-## Design
+## Design:
 
 ### Objectives
 
@@ -96,7 +96,7 @@ const levelConf = {
 
 ```
 
-## Development
+## Development:
 
 ### Outcome
 
@@ -180,7 +180,7 @@ Some challenges I faced during this cycle:
 
 * Detail was difficult to add since it required me to do some photo editing which I had no real experience of doing.
 
-## Testing
+## Testing:
 
 Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 

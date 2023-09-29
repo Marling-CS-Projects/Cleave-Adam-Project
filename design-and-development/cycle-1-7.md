@@ -1,6 +1,6 @@
-# 2.2.8 Cycle 8
+# 2.2.8 Cycle 8 - Background Music
 
-## Design
+## Design:
 
 ### Objectives
 
@@ -35,7 +35,7 @@ On collision with "Coin":
 End on collision
 ```
 
-## Development
+## Development:
 
 ### Outcome
 
@@ -58,7 +58,7 @@ Some challenges I faced during this cycle:
 * At first, I tried to implement a method for the music to be toggled on and off however, it proved to be very difficult.
 * I then tried to use two different keys to turn on and off the music however, that was incredibly difficult too.
 
-## Testing
+## Testing:
 
 Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 

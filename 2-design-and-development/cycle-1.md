@@ -1,6 +1,6 @@
 # 2.2.1 Cycle 1 - Player and Boundaries
 
-## Design
+## Design:
 
 ### Objectives
 
@@ -48,7 +48,7 @@ if left mouse pressed: {
   };
 ```
 
-## Development
+## Development:
 
 ### Outcome
 
@@ -97,7 +97,7 @@ Some challenges I faced during this cycle:
 * Implemending the boundaries at different orientations.
 * Assigning the common key bindings to the movement actions.
 
-## Testing
+## Testing:
 
 Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 

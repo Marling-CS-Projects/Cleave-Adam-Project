@@ -1,6 +1,6 @@
-# 2.2.9 Cycle 9
+# 2.2.9 Cycle 9 - Twines
 
-## Design
+## Design:
 
 ### Objectives
 
@@ -87,7 +87,7 @@ On collision with "bullet":
 End on collision
 ```
 
-## Development
+## Development:
 
 ### Outcome
 
@@ -166,7 +166,7 @@ Some challenges I faced during this cycle:
 * The positioning of the Twine was difficult to implement because they wouldn't comply with the array level format.
 * The Twine wouldn't shoot consistantly or in the correct direction.
 
-## Testing
+## Testing:
 
 Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 

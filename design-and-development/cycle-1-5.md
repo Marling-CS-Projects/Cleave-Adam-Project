@@ -1,6 +1,6 @@
 # 2.2.6 Cycle 6 - Level Change
 
-## Design
+## Design:
 
 ### Objectives
 
@@ -39,7 +39,7 @@ On collision with "Portal":
 End on collision
 ```
 
-## Development
+## Development:
 
 ### Outcome
 
@@ -65,7 +65,7 @@ Some challenges I faced during this cycle:
 
 * The platform change was difficult to implement since moving the Sprite to the correct position was difficult.
 
-## Testing
+## Testing:
 
 Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 

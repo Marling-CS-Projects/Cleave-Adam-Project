@@ -1,6 +1,6 @@
 # 2.2.4 Cycle 4 - First Level
 
-## Design
+## Design:
 
 ### Objectives
 
@@ -79,7 +79,7 @@ level = addLevel([
 });
 ```
 
-## Development
+## Development:
 
 ### Outcome
 
@@ -136,7 +136,7 @@ Some challenges I faced during this cycle:
 
 * Finding the correct blocks to create a tropical appearance.
 
-## Testing
+## Testing:
 
 Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 

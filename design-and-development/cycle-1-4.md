@@ -1,6 +1,6 @@
-# 2.2.5 Cycle 5
+# 2.2.5 Cycle 5 - Grunts
 
-## Design
+## Design:
 
 ### Objectives
 
@@ -66,7 +66,7 @@ end function
 
 ```
 
-## Development
+## Development:
 
 ### Outcome
 
@@ -117,7 +117,7 @@ Some challenges I faced during this cycle:
 
 * The Grunts movement was difficult to implement because they wouldn't comply with the gravity which was set.
 
-## Testing
+## Testing:
 
 Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 

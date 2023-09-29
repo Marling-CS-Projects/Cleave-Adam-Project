@@ -1,6 +1,6 @@
-# 2.2.2 Cycle 2
+# 2.2.2 Cycle 2 - Movement
 
-## Design
+## Design:
 
 ### Objectives
 
@@ -39,7 +39,7 @@ if right arrow pressed: {
 };
 ```
 
-## Development
+## Development:
 
 ### Outcome
 
@@ -84,7 +84,7 @@ Some challenges I faced during this cycle:
 * Finding the correct code to correspond with the selected key bindings.
 * Allowing multiple actions at once (jump and direction).
 
-## Testing
+## Testing:
 
 Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 

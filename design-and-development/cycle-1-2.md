@@ -1,6 +1,6 @@
-# 2.2.3 Cycle 3
+# 2.2.3 Cycle 3 - Jumping and Perspective
 
-## Design
+## Design:
 
 ### Objectives
 
@@ -50,7 +50,7 @@ Function jump():
    Set jumpProcedure to false
 ```
 
-## Development
+## Development:
 
 ### Outcome
 
@@ -119,7 +119,7 @@ Some challenges I faced during this cycle:
 * I had to rewrite the entire jumping procedure and include a loop which called a function.
 * I had to get the sizing right for the camera view otherwise, everything looked out of proportion.
 
-## Testing
+## Testing:
 
 Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
 

@@ -1,12 +1,12 @@
 # 2.1 Design Frame
 
-## Systems Diagram
+## Systems Diagram:
 
 <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 This diagram shows the different parts of the game that I will focus on creating. I have split each section into smaller sub-sections. Throughout the development stage, I will pick one or two of these sections to focus on at a time to gradually build up and piece together the game. I have broken the project down this way as it roughly corresponds to the success criteria displayed in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).
 
-## Usability Features
+## Usability Features:
 
 Usability is an important aspect to my game as I want it to be accessible to as many people as possible. Key usability points are evidenced in [<mark style="color:blue;">1.4a Features of Proposed Solution</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md) and in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).
 
@@ -55,7 +55,7 @@ The solution should be easy to use and not be over complicated. To do this, I wi
 * Create a list of controls for the game.
 * Implement clear and familiar game controls to ease playability.
 
-## Pseudocode for the Game
+## Pseudocode for the Game:
 
 ### Pseudocode for game
 

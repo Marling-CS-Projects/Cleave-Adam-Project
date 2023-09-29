@@ -1,4 +1,4 @@
-# 2.2.6 Cycle 6
+# 2.2.6 Cycle 6 - Level Change
 
 ## Design
 
@@ -86,7 +86,7 @@ The screenshots below shows the commented code, it completes the following tasks
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -1,4 +1,4 @@
-# 2.2.1 Cycle 1
+# 2.2.1 Cycle 1 - Player and Boundaries
 
 ## Design
 
@@ -120,4 +120,4 @@ The screenshot below shows the rendered sprite and boundaries around the edges o
 * [x] Add the player (can be a simple shape for now)
 * [x] Implement gravity into the game
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>

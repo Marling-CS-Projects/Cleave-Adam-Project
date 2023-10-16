@@ -1,8 +1,6 @@
 # 📖 Reference Page
 
-References:\
-
-
+## References:
 
 Arcade Machine, n.d.
 

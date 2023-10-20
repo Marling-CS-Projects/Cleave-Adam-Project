@@ -4,14 +4,14 @@
 
 ### Objectives
 
-In the nineth cycle, my objectives are to implement the second type of hostile enemy into the game. As with the previous enemy, the Twines don't need to be too detailed, a simple shape or image will do.
+In the ninth cycle, my objectives are to implement the second type of hostile enemy into the game. As with the previous enemy, the Twines don't need to be too detailed, a simple shape or image will do.
 
 * [x] Add Twines as specified in [<mark style="color:blue;">1.4a Features of Proposed Solution</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#opponents).
 * [x] Twines should damage or kill the player.
 
 ### Usability Features
 
-The Player will have to avoid the Twine since they will cause the Player to die and the game to end. This will add excitement into the game since there is now a larger risk factor.
+The Player will have to avoid the Twine since they will cause the Player to die and the game to end. This will add excitement to the game since there is now a larger risk factor.
 
 
 
@@ -163,12 +163,12 @@ End on collision
 
 Some challenges I faced during this cycle:
 
-* The positioning of the Twine was difficult to implement because they wouldn't comply with the array level format.
-* The Twine wouldn't shoot consistantly or in the correct direction.
+* The positioning of the Twine was difficult to implement because they wouldn't comply with the array-level format.
+* The Twine wouldn't shoot consistently or in the correct direction.
 
 ## Testing:
 
-Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
+Tests performed in this cycle are evidenced below, they were a crucial aspect of my development.
 
 ### Tests
 

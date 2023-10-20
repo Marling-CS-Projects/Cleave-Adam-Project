@@ -11,7 +11,7 @@ In the fourth cycle, my objectives are to implement the first level into the gam
 
 ### Usability Features
 
-Implementing my tropical level design into the project. This will allow the user to become more engaged in the game as discussed in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).
+Implementing my tropical-level design into the project. This will allow the user to become more engaged in the game as discussed in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).
 
 
 
@@ -128,7 +128,7 @@ const level = addLevel([
 })
 ```
 
-This code generates the first level completely differently to the code beforehand. Instead of using simple blocks and rectangles, it now utilises variables for each block type (Sand blocks, spikes, coins).
+This code generates the first level completely differently from the code beforehand. Instead of using simple blocks and rectangles, it now utilises variables for each block type (Sand blocks, spikes, coins).
 
 ### Challenges
 
@@ -138,7 +138,7 @@ Some challenges I faced during this cycle:
 
 ## Testing:
 
-Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
+Tests performed in this cycle are evidenced below, they were a crucial aspect of my development.
 
 ### Tests
 

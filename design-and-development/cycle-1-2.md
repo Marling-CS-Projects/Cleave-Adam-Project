@@ -4,7 +4,7 @@
 
 ### Objectives
 
-In the third cycle, my objectives are to add a cooldown for the Player's jump ability. This is crucial becasue otherwise, the Player is able to fly. This is because there is no time gap between each allowable jump key press. I will also implement the "Side Scrolling View" as described in [<mark style="color:blue;">1.4a 2D View</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#2d-view).
+In the third cycle, my objectives are to add a cooldown for the Player's jump ability. This is crucial because otherwise, the Player is able to fly. This is because there is no time gap between each allowable jump key press. I will also implement the "Side Scrolling View" as described in [<mark style="color:blue;">1.4a 2D View</mark>](../1-analysis/1.4a-features-of-the-proposed-solution.md#2d-view).
 
 * [x] Cooldown for jump ability.
 * [x] Cooldown works with both "Up" and "Space" keys.
@@ -121,7 +121,7 @@ Some challenges I faced during this cycle:
 
 ## Testing:
 
-Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
+Tests performed in this cycle are evidenced below, they were a crucial aspect of my development.
 
 ### Tests
 

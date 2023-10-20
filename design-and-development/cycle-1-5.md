@@ -4,14 +4,14 @@
 
 ### Objectives
 
-In the sixth cycle, my objectives are to clean up and comment my existing code. This will be useful when debugging in the future. I am also going to implement the transition to the next level, it doesn't have to be detailed for now, a simple platform will do.
+In the sixth cycle, my objectives are to clean up and comment on my existing code. This will be useful when debugging in the future. I am also going to implement the transition to the next level, it doesn't have to be detailed for now, a simple platform will do.
 
 * [x] Comment and tidy up code.
 * [x] Implement a basic change to the next platform.
 
 ### Usability Features
 
-The code will be easier to read and understand for all viewers. The commenting will also prove useful for the debugging.
+The code will be easier to read and understand for all viewers. The commenting will also prove useful for debugging.
 
 The change to the next level further develops the game and makes it more entertaining.
 
@@ -67,7 +67,7 @@ Some challenges I faced during this cycle:
 
 ## Testing:
 
-Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
+Tests performed in this cycle are evidenced below, they were a crucial aspect of my development.
 
 ### Tests
 
@@ -78,7 +78,7 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 ### Evidence
 
-The screenshots below shows the commented code, it completes the following tasks for this cycle:
+The screenshots below show the commented code, it completes the following tasks for this cycle:
 
 * [x] Comment and tidy up code.
 

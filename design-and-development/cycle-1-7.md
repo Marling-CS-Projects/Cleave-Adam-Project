@@ -4,7 +4,7 @@
 
 ### Objectives
 
-In the eighth cycle, my objectives are to implement the background music as specified in the Systems Diagram in [<mark style="color:blue;">2.1 Design Frame</mark>](../2-design-and-development/systems-diagram.md). The aim for this is for it to be catchy and memorable, this will encourage people to play the game and try to keep in in their minds.
+In the eighth cycle, my objectives are to implement the background music as specified in the Systems Diagram in [<mark style="color:blue;">2.1 Design Frame</mark>](../2-design-and-development/systems-diagram.md). The aim for this is for it to be catchy and memorable, this will encourage people to play the game and try to keep it in their minds.
 
 * [x] Implement background game music.
 * [x] The music must fit the style of the game.
@@ -12,15 +12,9 @@ In the eighth cycle, my objectives are to implement the background music as spec
 
 ### Usability Features
 
-The music will stay in the Player's heads if it is catchy. Therefore they will think about the game a lot and enjoy playing it.
+The music will stay in the Player's head if it is catchy. Therefore, they will think about the game a lot and enjoy playing it.
 
 
-
-### Key Variables
-
-| Variable Name | Use |
-| ------------- | --- |
-|               |     |
 
 ### Pseudocode
 
@@ -39,7 +33,7 @@ End on collision
 
 ### Outcome
 
-* Write here... , the code for this can be viewed below:
+* The code for this can be viewed below:
 
 ```javascript
 // Music Coin

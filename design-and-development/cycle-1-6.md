@@ -15,12 +15,6 @@ The Player will feel more immersed in the environment that they are placed into.
 
 
 
-### Key Variables
-
-| Variable Name | Use |
-| ------------- | --- |
-|               |     |
-
 ### Pseudocode
 
 The pseudocode for the new level and its detail is shown below:
@@ -195,7 +189,7 @@ Tests performed in this cycle are evidenced below, they were a crucial aspect to
 
 The screen recording below shows the Player's Character in the new environment / level, it completes the following tasks for this cycle:
 
-* [x] Develop second level structure.
+* [x] a Develop second-level structure.
 * [x] Add sufficient detail to the second level.
 
 

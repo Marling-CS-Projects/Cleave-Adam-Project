@@ -14,7 +14,7 @@ In the first cycle, my objectives are to create the html webpage and then to add
 
 ### Usability Features
 
-Contrasting colours will be used to show clear boundaries and will help me to split the development into specific sectionsas discussed in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).
+Contrasting colours will be used to show clear boundaries and will help me to split the development into specific sections as discussed in [<mark style="color:blue;">1.5 Success Criteria</mark>](../1-analysis/1.5-success-criteria.md).
 
 Boundaries will be used to prevent the player from falling out of the map. This should allow the user to focus on the game objective and not have to worry about accidental movements.
 
@@ -94,12 +94,12 @@ add([
 
 Some challenges I faced during this cycle:
 
-* Implemending the boundaries at different orientations.
+* Implementing the boundaries at different orientations.
 * Assigning the common key bindings to the movement actions.
 
 ## Testing:
 
-Tests performed in this cycle are evidenced below, they were a crucial aspect to my development.
+Tests performed in this cycle are evidenced below, they were a crucial aspect of my development.
 
 ### Tests
 

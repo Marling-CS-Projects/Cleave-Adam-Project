@@ -21,21 +21,21 @@ Users can achieve the goal with completeness and accuracy. To do this, I will ma
 
 ### Efficiency
 
-The speed and accuracy to which a user can complete the goal. To do this, I will create a menu system which is easy to navigate through in order for to find what you are looking for. The information which is more important can be found with less clicks.
+The speed and accuracy with which a user can complete the goal. To do this, I will create a menu system which is easy to navigate through in order to find what you are looking for. The information which is more important can be found with fewer clicks.
 
 #### Aims
 
 * Create a menu system that is quick and easy to navigate through.
-* Create a controls system that isn't too complicated but allows the player to do multiple actions.
+* Create a control system that isn't too complicated but allows the player to do multiple actions.
 
 ### Engaging
 
-The solution is engaging for the user to use. To do this, I will create 2 levels to keep the player engaged and allow them to have fun while playing the game. Using vector style art will also make the game nicer to look at than blocks, so may include additional details, keeping them engaged.
+The solution is engaging for the user to use. To do this, I will create 2 levels to keep the player engaged and allow them to have fun while playing the game. Using vector-style art will also make the game nicer to look at than blocks, so may include additional details, keeping them engaged.
 
 #### Aims
 
 * Create a couple of levels to work through.
-* Incorporate a style of game art the suits the game.
+* Incorporate a style of game art that suits the game.
 
 ### Error Tolerant
 
@@ -48,7 +48,7 @@ The solution should have as few errors as possible and if one does occur, it sho
 
 ### Easy To Learn
 
-The solution should be easy to use and not be over complicated. To do this, I will create simple controls for the game. I will make sure that no more controls are added than are needed in order to keep them as simple as possible for the players.
+The solution should be easy to use and not be overly complicated. To do this, I will create simple controls for the game. I will make sure that no more controls are added than are needed in order to keep them as simple as possible for the players.
 
 #### Aims
 
@@ -59,7 +59,7 @@ The solution should be easy to use and not be over complicated. To do this, I wi
 
 ### Pseudocode for game
 
-This is the basic layout of the object to store the details of the game. This will be what is rendered as it will inherit all important code for the scenes.
+This is the basic layout of the object to store the details of the game. This will be what is rendered as it will inherit all-important code for the scenes.
 
 ```
 object Game

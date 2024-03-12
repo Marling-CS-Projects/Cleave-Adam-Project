@@ -3,7 +3,7 @@
 * [💀 Adam Cleave's A-Level Project](README.md)
 * [📖 Reference Page](reference-page.md)
 
-## 🖊 1 Analysis <a href="#analysis" id="analysis"></a>
+## 🖊️ 1 Analysis <a href="#analysis" id="analysis"></a>
 
 * [1.1 Problem Identification](1-analysis/1.1-problem-identification.md)
 * [1.2 Stakeholders](1-analysis/1.2-stakeholders.md)
@@ -26,7 +26,7 @@
 * [2.2.8 Cycle 8 - Background Music](design-and-development/cycle-1-7.md)
 * [2.2.9 Cycle 9 - Twines](design-and-development/cycle-1-8.md)
 
-## 👨🔬 3 Testing <a href="#testing" id="testing"></a>
+## 👨‍🔬 3 Testing <a href="#testing" id="testing"></a>
 
 * [3.1 Testing for Function and Robustness](3-testing/3.1-robustness.md)
 * [3.2 Usability Testing](3-testing/3.2-usability-testing.md)
